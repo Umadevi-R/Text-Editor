@@ -1,10 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE: TEXT EDITOR (USING JAVA)
+##PROJECT TITLE: TEXT EDITOR (USING JAVA)
 PURPOSE OF PROJECT:
     The pupose to the project is to create a personalized text editor where the user can login ,open or create text documents,edit them and finally save them.
     Since the passwords are hashed,it ensures high security level.
